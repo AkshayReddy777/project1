@@ -12,7 +12,7 @@
 //            sum = (int) (sum + Math.pow(remainder, 3));
 //            number = number / 10;
 //        }
-//        System.out.println(sum);
+//        System.out.println(sumnumber);
 //        if ((sum) == x) {
 //            System.out.println("the given number is an Armstrong number");
 //        } else {
